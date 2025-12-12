@@ -4,6 +4,14 @@
 This project investigates how students’ habits and contextual factors influence academic performance.  
 Using the [**student_habits_performance**](https://github.com/atlantico-academy/datasets/raw/main/student_habits_performance.csv) dataset, we compare multiple regression models to predict exam scores and identify the most effective and efficient approach.
 
+## Technologies Used
+
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Matplotlib & Seaborn
+- Jupyter Notebook
+
 ## Goals
 
 - Predict students’ exam scores (`exam_score`)
